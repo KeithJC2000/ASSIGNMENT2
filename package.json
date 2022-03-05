@@ -35,14 +35,14 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kx-qf/COMP229-F2021-WEEK3.git"
+    "url": "git+https://github.com/KeithJC2000/ASSIGNMENT2.git"
   },
   "author": "Zhaoji Chen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kx-qf/COMP229-F2021-WEEK3/issues"
+    "url": "https://github.com/KeithJC2000/ASSIGNMENT2/issues"
   },
-  "homepage": "https://github.com/kx-qf/COMP229-F2021-WEEK3#readme",
+  "homepage": "https://github.com/KeithJC2000/ASSIGNMENT2#readme",
   "devDependencies": {
     "@types/connect-flash": "^0.0.37",
     "@types/cors": "^2.8.12",
